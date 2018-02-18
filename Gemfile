@@ -15,7 +15,6 @@ gem 'uglifier', '>= 1.3.0'
 # Gems used only in development
 group :development do
 	gem 'quiet_assets'
-	gem 'thin'
 	gem 'better_errors'
 	gem 'binding_of_caller'
 	gem 'meta_request'
